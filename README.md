@@ -1,7 +1,5 @@
 # Split API
 
-SPLIT API for CAPSTONE Q3 Kenzie Academy Brasil - app by Os Coringas da boa visão, escrita e corrida!
-
 ========== USER ==========
 
 ## Create USER
